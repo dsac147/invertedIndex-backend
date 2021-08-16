@@ -7,5 +7,5 @@ EcmaScript 6 (JavaScript 2015) <br />
 Node.js <br />
 Ant Design <br />
 
-## Backend Repo 
+## Frontend Repo 
 [Frontend Repo](https://github.com/dsac147/invertedIndex-frontend) <br />
